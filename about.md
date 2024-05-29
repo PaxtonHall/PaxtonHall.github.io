@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi
 <!--
-，我是 lemon.
+我是 lemon.
 ## 关于我
 你好，我是程序员柠檬。
 
