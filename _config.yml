@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: Ov23liEHcWMWV97YCB49
+  clientSecret: 6d6af6e945efe38f079b5e1b8b6c1a354c9805ef
   repo: PaxtonHall.github.io
   owner: PaxtonHall
 
