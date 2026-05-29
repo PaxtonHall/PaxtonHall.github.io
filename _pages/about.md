@@ -23,4 +23,4 @@ I want to pursue a career in computer science.
 I would like to own my own business and or work as a computer programmer
 
 ## Resume
-https://canva.link/jpnehj804p3me5z 
+ [CLICK HERE for My Resume](https://canva.link/jpnehj804p3me5z) 
