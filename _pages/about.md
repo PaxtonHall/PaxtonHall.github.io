@@ -8,16 +8,13 @@ redirect_from:
 ---
 
 ## About Me 
-I am a student at Rechland High School, interested in technology and computer science.
+I am a freshman at Rechland High School, interested in technology and computer science.
 
 ## Skills
 - java
 - problem solving
 - hard worker
 - logikol thinker
-
-## Career Coals
-I want to pursue a career in computer science.
 
 ## Career Goals
 I would like to own my own business and or work as a computer programmer
